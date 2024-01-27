@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Choose your locationChoose your location</name>
+   <tag></tag>
+   <elementGuidId>0e067b49-63b1-4b37-8e2a-8cb25df2b3f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-popover-1']/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.a-popover-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>6f6e0537-de54-4c5e-91b1-39f12b01ab66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-popover-header</value>
+      <webElementGuid>172ae4b5-d952-4695-86ca-b5332025b2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose your locationChoose your location</value>
+      <webElementGuid>f79a3340-9412-4d0e-8bd2-0093676bf48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-popover-1&quot;)/div[@class=&quot;a-popover-wrapper&quot;]/header[@class=&quot;a-popover-header&quot;]</value>
+      <webElementGuid>8e3d613a-aab9-4c4a-bf8e-2e5ba6102066</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-popover-1']/div/header</value>
+      <webElementGuid>c9fe9783-0205-4b11-95e3-a6dbbda84c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/header</value>
+      <webElementGuid>08ab496f-32ae-4623-b23c-386b2750db7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Choose your locationChoose your location' or . = 'Choose your locationChoose your location')]</value>
+      <webElementGuid>3aa36a59-5441-4a2c-9033-3c8e250c7fb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

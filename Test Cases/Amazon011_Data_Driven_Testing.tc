@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon011_Data_Driven_Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0668416b-edab-426a-9f66-d3ca90e74939</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>084dd483-14a7-47f8-a8ae-9240e502091b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>084dd483-14a7-47f8-a8ae-9240e502091b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>4236e108-77c8-415a-b57f-06dc330d6073</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>084dd483-14a7-47f8-a8ae-9240e502091b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>2ed41e86-c2e5-4079-b099-e177758a6be2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>084dd483-14a7-47f8-a8ae-9240e502091b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>element</value>
+      <variableId>5d48446e-fc3a-464b-a595-097bf0f04492</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mangalisai433@gmail.com'</defaultValue>
+      <description></description>
+      <id>4236e108-77c8-415a-b57f-06dc330d6073</id>
+      <masked>true</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Lakshman@24'</defaultValue>
+      <description></description>
+      <id>2ed41e86-c2e5-4079-b099-e177758a6be2</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;Lakshman&quot;'</defaultValue>
+      <description></description>
+      <id>5d48446e-fc3a-464b-a595-097bf0f04492</id>
+      <masked>true</masked>
+      <name>element</name>
+   </variable>
+</TestCaseEntity>

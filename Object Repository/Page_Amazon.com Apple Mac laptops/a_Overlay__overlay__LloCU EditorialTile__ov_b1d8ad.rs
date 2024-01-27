@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Overlay__overlay__LloCU EditorialTile__ov_b1d8ad</name>
+   <tag></tag>
+   <elementGuidId>49ad1c46-4fbb-4842-b243-6169e63b5eca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#jjzn1y5ygd > div.EditorialTile__container__MuV7R > div.EditorialTile__content__Ey9JH > div.EditorialTile__innerContent__n92i8 > a.Overlay__overlay__LloCU.EditorialTile__overlay__RMD1L</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jjzn1y5ygd']/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e7ec72b-6c6e-4937-b977-ab51e5ac919b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5M7S6K?ref_=ast_sto_dp&amp;th=1&amp;psc=1</value>
+      <webElementGuid>cd628081-31dd-4635-89a2-8d6aa3cb0fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Overlay__overlay__LloCU EditorialTile__overlay__RMD1L</value>
+      <webElementGuid>f19e7668-a18c-44e7-8017-df4e5f1c143f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jjzn1y5ygd&quot;)/div[@class=&quot;EditorialTile__container__MuV7R&quot;]/div[@class=&quot;EditorialTile__content__Ey9JH&quot;]/div[@class=&quot;EditorialTile__innerContent__n92i8&quot;]/a[@class=&quot;Overlay__overlay__LloCU EditorialTile__overlay__RMD1L&quot;]</value>
+      <webElementGuid>653132ec-2dc4-49af-a94b-9d0626b2fe7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jjzn1y5ygd']/div/div/div/a</value>
+      <webElementGuid>f699ed1f-15e0-4a38-a7c7-c0f4eebcfe37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5M7S6K?ref_=ast_sto_dp&amp;th=1&amp;psc=1')]</value>
+      <webElementGuid>06cd7b8d-b15d-466c-a20d-9a1bc19f7861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/div/div/a</value>
+      <webElementGuid>db1e81cb-8985-48bf-a14b-593584950045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5M7S6K?ref_=ast_sto_dp&amp;th=1&amp;psc=1']</value>
+      <webElementGuid>ff1ea3e8-1c16-479a-9916-37387ea9d38e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

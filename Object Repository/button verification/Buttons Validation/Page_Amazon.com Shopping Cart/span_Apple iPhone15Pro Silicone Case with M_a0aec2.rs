@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apple iPhone15Pro Silicone Case with M_a0aec2</name>
+   <tag></tag>
+   <elementGuidId>a9df9793-348b-4cb3-bcec-1d9c4d7b02d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-truncate-cut</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sc-active-128f1fda-8e92-4089-beb7-58db714f48a6']/div[4]/div/div[3]/ul/li/span/a/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>039cf43c-c14c-4a23-a69c-57eaf7c8a0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-truncate-cut</value>
+      <webElementGuid>a56f9b51-ed25-44ff-9f97-23eea6164b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>553c1a30-8de9-4331-a828-2a14bfa2dd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 15 Pro Silicone Case with MagSafe - Winter&amp;…</value>
+      <webElementGuid>2d664a3a-bd5b-4afc-9334-936a411679d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sc-active-128f1fda-8e92-4089-beb7-58db714f48a6&quot;)/div[@class=&quot;sc-list-item-content&quot;]/div[@class=&quot;a-row a-grid-vertical-align a-grid-top sc-list-item-content-inner&quot;]/div[@class=&quot;sc-item-content-group&quot;]/ul[@class=&quot;a-unordered-list a-nostyle a-vertical a-spacing-base sc-item-content-list&quot;]/li[@class=&quot;a-spacing-mini sc-item-product-title-cont&quot;]/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal sc-product-link&quot;]/span[@class=&quot;a-size-base-plus a-color-base sc-product-title sc-grid-item-product-title&quot;]/span[@class=&quot;a-truncate sc-grid-item-product-title a-size-base-plus&quot;]/span[@class=&quot;a-truncate-cut&quot;]</value>
+      <webElementGuid>72a18951-6600-4aec-a97a-f4da22d25cf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-active-128f1fda-8e92-4089-beb7-58db714f48a6']/div[4]/div/div[3]/ul/li/span/a/span/span/span[2]</value>
+      <webElementGuid>7ed92d25-678d-490e-b7b1-7bb68c01ccc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span/span/span[2]</value>
+      <webElementGuid>599e0d67-c943-41e9-84b2-cb4c0d4f5b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apple iPhone 15 Pro Silicone Case with MagSafe - Winter&amp;…' or . = 'Apple iPhone 15 Pro Silicone Case with MagSafe - Winter&amp;…')]</value>
+      <webElementGuid>24616992-d816-45da-bb71-bef200da66f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
