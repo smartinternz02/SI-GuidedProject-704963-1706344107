@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='nav-signin-tooltip']/a/span</value>
+         <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

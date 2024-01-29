@@ -6,12 +6,12 @@
    <elementGuidId>4c0abe8b-1bfd-476c-8cf4-947c3a57442c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='cvf-input-code']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#cvf-input-code</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

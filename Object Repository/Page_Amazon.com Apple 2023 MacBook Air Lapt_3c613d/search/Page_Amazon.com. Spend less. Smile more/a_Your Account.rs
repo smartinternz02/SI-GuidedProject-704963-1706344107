@@ -6,12 +6,12 @@
    <elementGuidId>a14892fe-93c2-40e4-a316-a6a40df28205</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.nav-bb-right > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Your Account')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

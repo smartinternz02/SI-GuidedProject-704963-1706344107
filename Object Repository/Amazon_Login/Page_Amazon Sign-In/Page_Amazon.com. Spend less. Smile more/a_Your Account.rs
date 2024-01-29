@@ -6,12 +6,12 @@
    <elementGuidId>1f8f2331-ec99-499b-8c67-e8706d58239c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='navbar-backup-backup']/div/div[3]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.nav-bb-right > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Your Account')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='auth-error-message-box']/div/h4</value>
+         <value>//h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,6 +6,14 @@
    <elementGuidId>c3ada5d6-c902-4393-9570-d3dc59bdf12a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+            Sign in
+          ' or . = '
+            Sign in
+          ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>h1.a-spacing-small</value>
       </entry>
@@ -14,7 +22,7 @@
          <value>//div[@id='authportal-main-section']/div[2]/div[2]/div/form/div/div/div/h1</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
