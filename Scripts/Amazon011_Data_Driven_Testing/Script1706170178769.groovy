@@ -33,7 +33,5 @@ WebUI.setText(findTestObject('Object Repository/Data Drivem Testing/Page_Amazon 
 
 WebUI.click(findTestObject('Object Repository/Data Drivem Testing/Page_Amazon Sign-In/inputsignInSubmit'))
 
-WebUI.verifyTextPresent('', false)
-
 WebUI.closeBrowser()
 
