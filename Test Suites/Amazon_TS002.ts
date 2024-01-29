@@ -36,17 +36,4 @@
          <variableId>5d48446e-fc3a-464b-a595-097bf0f04492</variableId>
       </variableLink>
    </testCaseLink>
-   <testCaseLink>
-      <guid>f2772408-9589-43fc-b621-546aafa7077a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Amazon010_Search_Items_Internal_Binding</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3a040d92-7c74-4a79-bfe5-97f8e7abce93</variableId>
-      </variableLink>
-   </testCaseLink>
 </TestSuiteEntity>
