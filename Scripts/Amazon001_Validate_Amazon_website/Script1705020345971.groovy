@@ -23,6 +23,8 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
+WebUI.refresh()
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Amazon.com. Spend less. Smile more/a_us'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon.com. Spend less. Smile more/input_a-button-input'))
