@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_samsung galaxy s24 ultra</name>
+   <tag></tag>
+   <elementGuidId>8869a0ea-0953-490e-acc5-689425bc0347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-color-state.a-text-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80426d8a-468f-4963-817d-64dd588615b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-state a-text-bold</value>
+      <webElementGuid>4971800b-4875-405d-9604-5fbe1b73ddaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;samsung galaxy s24 ultra&quot;</value>
+      <webElementGuid>d5883d9e-8508-450a-b028-b611e26ee1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/span[@class=&quot;rush-component&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=UPPER template=RESULT_INFO_BAR widgetId=result-info-bar&quot;]/h1[@class=&quot;a-size-base s-desktop-toolbar a-text-normal&quot;]/div[@class=&quot;s-desktop-width-max sg-row-align-items-center s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-14-of-20 sg-col-18-of-24 sg-col s-breadcrumb sg-col-10-of-16 sg-col-6-of-12&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/span[@class=&quot;a-color-state a-text-bold&quot;]</value>
+      <webElementGuid>ba50a5e6-6937-487a-a963-36f415be4269</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/span[2]/div/h1/div/div/div/div/span[3]</value>
+      <webElementGuid>52cb0ec5-4ef7-47a1-949f-c508bd024c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[3]</value>
+      <webElementGuid>2ea91f1b-be8d-440f-8ce4-5e2eff29b874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&quot;samsung galaxy s24 ultra&quot;' or . = '&quot;samsung galaxy s24 ultra&quot;')]</value>
+      <webElementGuid>e2817600-64aa-4471-acd0-631534c618ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

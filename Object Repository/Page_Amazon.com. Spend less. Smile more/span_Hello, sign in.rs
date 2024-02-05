@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputsignInSubmit</name>
+   <name>span_Hello, sign in</name>
    <tag></tag>
-   <elementGuidId>e431e91b-cc3b-46b0-af56-743cc2d77d86</elementGuidId>
+   <elementGuidId>5c44f749-22f7-4f11-b9db-71a1a6341cf4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='signInSubmit']</value>
+         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#signInSubmit</value>
+         <value>#nav-link-accountList-nav-line-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>f565996e-468f-41af-873d-f7bb8e9145f2</webElementGuid>
+      <value>span</value>
+      <webElementGuid>e67e6c7b-b243-41d0-849a-01a89aeec873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>signInSubmit</value>
-      <webElementGuid>abcc55d9-8342-477b-b7c8-728fb873c1b4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>446303e2-9abb-42d6-be86-ff33d6e3196a</webElementGuid>
+      <value>nav-link-accountList-nav-line-1</value>
+      <webElementGuid>f5ebe6e1-3a52-4e35-bf26-307cc21a2199</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-button-input</value>
-      <webElementGuid>59ca303f-5b61-477f-9951-ca50b230a77c</webElementGuid>
+      <value>nav-line-1 nav-progressive-content</value>
+      <webElementGuid>48697caa-0409-437a-9b38-5a1117d6617e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>3fa7100a-4647-4bc5-9096-e06432a8814d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
-      <type>Main</type>
-      <value>auth-signin-button-announce</value>
-      <webElementGuid>212f0442-88e4-4e82-b180-c828310f4064</webElementGuid>
+      <value>Hello, sign in</value>
+      <webElementGuid>c61a34bc-dbcb-4cfc-b385-7fa441cd5e20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signInSubmit&quot;)</value>
-      <webElementGuid>0ec55437-36fb-4839-a6e4-532c5e0a4ae8</webElementGuid>
+      <value>id(&quot;nav-link-accountList-nav-line-1&quot;)</value>
+      <webElementGuid>9835b6a0-144d-45ef-8db2-f0d411ecfa35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='signInSubmit']</value>
-      <webElementGuid>72210c6e-12bf-4b8e-aecb-dee70d70724c</webElementGuid>
+      <value>//span[@id='nav-link-accountList-nav-line-1']</value>
+      <webElementGuid>b56d4376-d381-4785-ae47-96c071fa08fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='auth-signin-button']/span/input</value>
-      <webElementGuid>a58316f8-6a7b-4cc9-bca7-ffdb35e73146</webElementGuid>
+      <value>//a[@id='nav-link-accountList']/div/span</value>
+      <webElementGuid>e50e1f14-9d99-4a8b-b1d4-ac2fae139b53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/input</value>
-      <webElementGuid>3e410881-76e7-40e7-97e5-68de25354099</webElementGuid>
+      <value>//a[2]/div/span</value>
+      <webElementGuid>0614a0cc-5c6a-46f2-9974-26952e072e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'signInSubmit' and @type = 'submit']</value>
-      <webElementGuid>c26cce6c-bf6c-497f-8843-3e18b20a1ba8</webElementGuid>
+      <value>//span[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
+      <webElementGuid>53e81208-6bf3-44cc-ad7e-e97574a415e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

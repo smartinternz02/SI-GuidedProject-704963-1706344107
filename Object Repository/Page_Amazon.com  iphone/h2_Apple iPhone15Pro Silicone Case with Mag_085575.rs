@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Apple iPhone15Pro Silicone Case with Mag_085575</name>
+   <tag></tag>
+   <elementGuidId>0dde9999-3fe5-44cd-85e8-ccd5e84dad8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.a-size-mini.a-spacing-none.a-color-base.s-line-clamp-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a104e2c5-8034-4059-9d65-11e7732589db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-mini a-spacing-none a-color-base s-line-clamp-2</value>
+      <webElementGuid>de0ff01e-e967-4c32-8c1c-fa29a451389e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​  </value>
+      <webElementGuid>b9c2f2e2-35e4-45ce-b500-9c5d01a03b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-result-item s-asin sg-col-0-of-12 sg-col-16-of-20 AdHolder sg-col s-widget-spacing-small sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_1&quot;]/div[@class=&quot;rush-component&quot;]/div[@class=&quot;rush-component s-featured-result-item&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v1s9ddn432to7l1yimuv43pqlfg s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section&quot;]/div[@class=&quot;puisg-row&quot;]/div[@class=&quot;puisg-col puisg-col-4-of-12 puisg-col-8-of-16 puisg-col-12-of-20 puisg-col-12-of-24 puis-list-col-right&quot;]/div[@class=&quot;puisg-col-inner&quot;]/div[@class=&quot;a-section a-spacing-small a-spacing-top-small&quot;]/div[@class=&quot;a-section a-spacing-none puis-padding-right-small s-title-instructions-style&quot;]/h2[@class=&quot;a-size-mini a-spacing-none a-color-base s-line-clamp-2&quot;]</value>
+      <webElementGuid>5d5be34b-1dc4-45c0-8e90-0b7fd117c7f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/div/div/span/div/div/div/div[2]/div/div/div/h2</value>
+      <webElementGuid>63d917fb-5be6-45ab-a014-5fe97854d5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>788c50b3-baec-4f58-8afd-3e48b63a93e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​  ' or . = 'Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​  ')]</value>
+      <webElementGuid>791bf4aa-ad23-4d17-a366-994914272bb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_field-keywords</name>
+   <name>input_submit.add-to-registry.wishlist</name>
    <tag></tag>
-   <elementGuidId>ffad0a22-ce49-4688-81c5-74ebd249182f</elementGuidId>
+   <elementGuidId>f6e66cfe-6228-4e8f-9452-13b30ccadc9b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='twotabsearchtextbox']</value>
+         <value>//input[@id='add-to-wishlist-button-submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#twotabsearchtextbox</value>
+         <value>#add-to-wishlist-button-submit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,126 +22,119 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2b994b90-6d46-4a06-a734-35f872fff254</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>3e7fca2d-a480-4088-9c22-74e8767957cd</webElementGuid>
+      <webElementGuid>571c6add-40df-419d-b45e-cfeecabb56b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>twotabsearchtextbox</value>
-      <webElementGuid>5df6eb8f-4621-45d9-87fb-606f20d2838b</webElementGuid>
+      <value>add-to-wishlist-button-submit</value>
+      <webElementGuid>889c00b4-ce64-4a97-8094-96346dd16cfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>field-keywords</value>
-      <webElementGuid>8c51d006-630d-445b-9ea6-908614e17ec8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>f9f04cff-f05f-4111-9f70-01c042379d16</webElementGuid>
+      <value>submit.add-to-registry.wishlist</value>
+      <webElementGuid>b6623038-bc13-4c57-aebe-80c06a0ce478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>title</name>
       <type>Main</type>
-      <value>Search Amazon</value>
-      <webElementGuid>cfbc91d8-29ca-4e36-8f77-f7fc59f74a83</webElementGuid>
+      <value>Add to List</value>
+      <webElementGuid>62d414aa-17b0-49fd-b311-4829fa5fae2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>atwl-splitbutton-main</value>
+      <webElementGuid>4f4de7d5-4cd6-42e6-9dbb-c3a00b071d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hover</name>
+      <type>Main</type>
+      <value>&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  -->
+       To Add to Your List, choose from options to the left</value>
+      <webElementGuid>45e8b5c9-1a5e-4846-97e6-9e440ca52b95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-input nav-progressive-attribute</value>
-      <webElementGuid>cd7310b2-97a8-4efa-8391-2935e958c39d</webElementGuid>
+      <value>a-button-input a-declarative</value>
+      <webElementGuid>81972eff-df9e-44ef-9e8e-a710003a6971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>049c3fa7-90ea-4436-a8cc-231d770a42de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>dir</name>
+      <name>value</name>
       <type>Main</type>
-      <value>auto</value>
-      <webElementGuid>ec669594-1384-4fd0-b4e4-59223cf3fcf3</webElementGuid>
+      <value>Add to List</value>
+      <webElementGuid>29e39672-1455-480b-bc39-c991fee333fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>71f9cd9d-d6df-4387-8b1a-cac7755561aa</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Search Amazon</value>
-      <webElementGuid>ec280b94-86be-4035-8366-4921f392d8a5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>spellcheck</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>9a3c8f04-3339-42e2-8dde-509c6b837474</webElementGuid>
+      <value>wishListMainButton-announce</value>
+      <webElementGuid>2859d22f-709c-48d8-ad42-298aee25a54a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;twotabsearchtextbox&quot;)</value>
-      <webElementGuid>68375ae9-513a-413a-bf37-be1c835c1420</webElementGuid>
+      <value>id(&quot;add-to-wishlist-button-submit&quot;)</value>
+      <webElementGuid>161c7ac9-c936-472b-adc5-3ad2b989aee7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='twotabsearchtextbox']</value>
-      <webElementGuid>64ba9c98-3090-497b-88c0-d3a1517e0a3a</webElementGuid>
+      <value>//input[@id='add-to-wishlist-button-submit']</value>
+      <webElementGuid>7cf6c970-f9ae-4b2f-8fb7-a7c48bb78369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='nav-search-bar-form']/div[2]/div/input</value>
-      <webElementGuid>d5741cbe-90f8-469b-95de-ca5a47180ad4</webElementGuid>
+      <value>//span[@id='wishListMainButton']/span/input</value>
+      <webElementGuid>adc923a6-704a-441d-ae7c-691ff9113967</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>ea3752d8-1bd7-4336-80e9-e74df2f9bcfd</webElementGuid>
+      <value>//div[6]/div/span/span/input</value>
+      <webElementGuid>5dc9d408-23ba-4bcc-b950-c3dc688eae58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'twotabsearchtextbox' and @name = 'field-keywords' and @placeholder = 'Search Amazon']</value>
-      <webElementGuid>f5ac493f-8c17-495d-afdb-973f4f7882dc</webElementGuid>
+      <value>//input[@id = 'add-to-wishlist-button-submit' and @name = 'submit.add-to-registry.wishlist' and @title = 'Add to List' and @type = 'submit']</value>
+      <webElementGuid>9af1e3ed-31c6-4f6c-acb9-cd0737ff6dfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

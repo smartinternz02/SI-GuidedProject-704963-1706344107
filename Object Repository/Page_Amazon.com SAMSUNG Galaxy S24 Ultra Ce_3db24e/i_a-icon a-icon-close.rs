@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-close</name>
+   <tag></tag>
+   <elementGuidId>98bf0a0b-b0aa-4170-9b64-22a966bbf6e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-popover-10']/div/header/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>319ebca5-9ea0-4adf-8e25-5399c51eb6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-close</value>
+      <webElementGuid>c66f247a-48e4-47ee-9582-22f6c438860d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-popover-10&quot;)/div[@class=&quot;a-popover-wrapper&quot;]/header[@class=&quot;a-popover-header&quot;]/button[@class=&quot;a-button-close a-declarative&quot;]/i[@class=&quot;a-icon a-icon-close&quot;]</value>
+      <webElementGuid>d29c77ce-f871-43ff-aba3-ac4e720659bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-popover-10']/div/header/button/i</value>
+      <webElementGuid>19b1d703-bddb-48a9-a3b9-3bbdca55919b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/button/i</value>
+      <webElementGuid>67e16b75-8d85-47a3-8732-a8835603db32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

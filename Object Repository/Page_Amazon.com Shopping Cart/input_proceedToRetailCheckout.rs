@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_email</name>
+   <name>input_proceedToRetailCheckout</name>
    <tag></tag>
-   <elementGuidId>1a676ace-4477-4318-b7cd-5c503a0cf47b</elementGuidId>
+   <elementGuidId>23826170-bbf4-441d-81ab-d9bbf842567c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ap_email']</value>
+         <value>//input[@name='proceedToRetailCheckout']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ap_email</value>
+         <value>input[name=&quot;proceedToRetailCheckout&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6f75658d-5d4f-4373-a21f-a2b0fe361ed8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>3bbd7821-96d9-4e25-82c9-9689fae30325</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>128</value>
-      <webElementGuid>617b734f-8dda-4e74-82e5-56343d92e672</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ap_email</value>
-      <webElementGuid>8bd5251a-8b4c-4b64-bd3f-6d2af18e062c</webElementGuid>
+      <webElementGuid>2b2a7563-13ec-4b6c-9b5c-1d2bf771582f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>3de50c12-6a4a-4ee0-91c7-48e71ceace29</webElementGuid>
+      <value>proceedToRetailCheckout</value>
+      <webElementGuid>859916d3-fd7f-46f0-b604-c7d3f315f4ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>data-feature-id</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>1091edf1-1ff9-4206-b37f-0ba380dfa37d</webElementGuid>
+      <value>proceed-to-checkout-action</value>
+      <webElementGuid>76f34cdb-631f-4aed-8502-822ecf95ca8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-input-text a-span12 auth-autofocus auth-required-field</value>
-      <webElementGuid>937ff0d5-f561-4bb0-8c59-8925be5ebac8</webElementGuid>
+      <value>a-button-input</value>
+      <webElementGuid>0b2cdf08-33d9-4ae2-a4f7-38dd2a14d5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>59f82f66-bdab-49e8-92fa-2211a13480f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Proceed to checkout</value>
+      <webElementGuid>60fe04b2-fdf3-423f-b107-b984aa5a14c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>sc-buy-box-ptc-button-announce</value>
+      <webElementGuid>fc1ddf8e-132a-49a2-9970-fc96a47a7050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ap_email&quot;)</value>
-      <webElementGuid>f4342569-6d95-4292-8986-ebae937b58ed</webElementGuid>
+      <value>id(&quot;sc-buy-box-ptc-button&quot;)/span[@class=&quot;a-button-inner&quot;]/input[@class=&quot;a-button-input&quot;]</value>
+      <webElementGuid>5dd09f4e-2706-4109-b4b3-d31b9d3f7ff9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ap_email']</value>
-      <webElementGuid>6d64b3b6-0cbf-4e94-852b-b8d6e5058ee6</webElementGuid>
+      <value>//input[@name='proceedToRetailCheckout']</value>
+      <webElementGuid>db1aecd4-9d83-49ab-a4ed-0442b98145bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='authportal-main-section']/div[2]/div[2]/div/form/div/div/div/div/input</value>
-      <webElementGuid>f46d436b-5b67-4b78-8d73-a168fa415311</webElementGuid>
+      <value>//span[@id='sc-buy-box-ptc-button']/span/input</value>
+      <webElementGuid>9509247f-f03b-47ef-94c3-7cc2b81a8e7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/input</value>
-      <webElementGuid>6ad7ae13-dc72-4adf-a499-da880d7927bd</webElementGuid>
+      <value>//form/span/span/span/input</value>
+      <webElementGuid>a8d47db0-a43c-4088-9013-4fd22c19f69b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'email' and @id = 'ap_email' and @name = 'email']</value>
-      <webElementGuid>0ad08cf3-a86d-46af-8d4b-9e5b01a2efd2</webElementGuid>
+      <value>//input[@name = 'proceedToRetailCheckout' and @type = 'submit']</value>
+      <webElementGuid>f05c9402-b17c-439e-ba77-c1ce97fefe66</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

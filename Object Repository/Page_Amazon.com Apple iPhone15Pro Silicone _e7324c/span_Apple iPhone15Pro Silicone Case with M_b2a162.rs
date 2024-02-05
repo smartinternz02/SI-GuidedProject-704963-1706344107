@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputsignInSubmit</name>
+   <name>span_Apple iPhone15Pro Silicone Case with M_b2a162</name>
    <tag></tag>
-   <elementGuidId>e431e91b-cc3b-46b0-af56-743cc2d77d86</elementGuidId>
+   <elementGuidId>66c622d1-7838-4e0a-9f2a-02cfe92ee1db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='signInSubmit']</value>
+         <value>//span[@id='productTitle']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#signInSubmit</value>
+         <value>#productTitle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>f565996e-468f-41af-873d-f7bb8e9145f2</webElementGuid>
+      <value>span</value>
+      <webElementGuid>8312bf5f-f0db-4560-84ea-e7a809743d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>signInSubmit</value>
-      <webElementGuid>abcc55d9-8342-477b-b7c8-728fb873c1b4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>446303e2-9abb-42d6-be86-ff33d6e3196a</webElementGuid>
+      <value>productTitle</value>
+      <webElementGuid>12111f8f-9552-4e61-9964-019f158e2e23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>a-button-input</value>
-      <webElementGuid>59ca303f-5b61-477f-9951-ca50b230a77c</webElementGuid>
+      <value>a-size-large product-title-word-break</value>
+      <webElementGuid>6bc3950b-c055-40b1-b1d2-e8037d4fe882</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>3fa7100a-4647-4bc5-9096-e06432a8814d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-labelledby</name>
-      <type>Main</type>
-      <value>auth-signin-button-announce</value>
-      <webElementGuid>212f0442-88e4-4e82-b180-c828310f4064</webElementGuid>
+      <value>        Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​       </value>
+      <webElementGuid>66e313d5-1550-463d-bb4d-2a6c3181a2cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signInSubmit&quot;)</value>
-      <webElementGuid>0ec55437-36fb-4839-a6e4-532c5e0a4ae8</webElementGuid>
+      <value>id(&quot;productTitle&quot;)</value>
+      <webElementGuid>9ddb0b3b-15b2-481d-af16-ab61a90f9938</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='signInSubmit']</value>
-      <webElementGuid>72210c6e-12bf-4b8e-aecb-dee70d70724c</webElementGuid>
+      <value>//span[@id='productTitle']</value>
+      <webElementGuid>e4ed5e1d-e4cd-42e5-97bb-7689600d4b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='auth-signin-button']/span/input</value>
-      <webElementGuid>a58316f8-6a7b-4cc9-bca7-ffdb35e73146</webElementGuid>
+      <value>//h1[@id='title']/span</value>
+      <webElementGuid>6af4c942-fde3-4e3b-b06e-c334ebee44ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/input</value>
-      <webElementGuid>3e410881-76e7-40e7-97e5-68de25354099</webElementGuid>
+      <value>//h1/span</value>
+      <webElementGuid>a6a7f88e-e9db-43f9-bf8b-c99b3d57680c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'signInSubmit' and @type = 'submit']</value>
-      <webElementGuid>c26cce6c-bf6c-497f-8843-3e18b20a1ba8</webElementGuid>
+      <value>//span[@id = 'productTitle' and (text() = '        Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​       ' or . = '        Apple iPhone 15 Pro Silicone Case with MagSafe - Winter Blue ​​​​​​​       ')]</value>
+      <webElementGuid>3c9f6d3c-fd37-41a0-b1fb-ca8f7422adca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
