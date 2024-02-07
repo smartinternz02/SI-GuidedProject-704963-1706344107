@@ -24,6 +24,7 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon Sign-In/a_Create your Amazon account'))
+
 WebUI.delay(3)
 
 WebUI.setText(findTestObject('Object Repository/Page_Amazon Registration/input_customerName'), 'lakshman')
@@ -39,4 +40,6 @@ WebUI.click(findTestObject('Object Repository/Page_Amazon Registration/inputcont
 WebUI.setText(findTestObject('Object Repository/Page_Authentication required/input_code'), '088574')
 
 WebUI.click(findTestObject('Object Repository/Page_Authentication required/input_a-button-input'))
+
+WebUI.closeBrowser()
 
