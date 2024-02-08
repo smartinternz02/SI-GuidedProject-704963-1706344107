@@ -1,9 +1,9 @@
 **Software Test Automation**
 
 **Tech slack:**
-_Katalon_Studio, _Github_, _Jenkins_.
+_Katalon Studio_, _Github_, _Jenkins_.
 
-**Project: **  **Amazon Webite**
+**Project:**  **Amazon Webite**
 
 **Project Description:**
 
